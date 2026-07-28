@@ -1,16 +1,42 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Rokibul 👋</h1>
+<h3 align="center">AI/ML Engineer building Agentic AI, LLM/RAG, and Computer Vision systems</h3>
 
-<!--
-**Rokibul1022/Rokibul1022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rokibul1022&label=Profile%20Views&color=6c5ce7&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/Rokibul1022?label=Followers&style=flat&color=6c5ce7" alt="followers" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rokibul1022&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rokibul1022&hide_border=true" alt="streak stats" height="165" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rokibul1022&layout=compact&hide_border=true&langs_count=8" alt="top languages" height="165" />
+</p>
+
+<br>
+
+### 🧑‍💻 Who am I?
+CSE graduate from North South University, Dhaka. I build production-grade agentic systems, RAG pipelines, and fine-tune LLMs/VLA models — not just call APIs. Recent Research Assistant work at NSU on real-time robotics scene understanding.
+
+### 🚧 What am I currently working on?
+- Fine-tuning open-source LLMs (LoRA/QLoRA) for domain-specific tasks
+- Building local, multi-agent systems with LangGraph + MCP — zero cloud dependency
+- Benchmarking Vision-Language-Action models (SmolVLA, OpenVLA, GR00T) for robotics
+
+### 🛠️ Tools & Tech
+`Python` `PyTorch` `TensorFlow` `LangChain` `LangGraph` `LlamaIndex` `MCP`
+`ChromaDB` `Pinecone` `Hugging Face` `PEFT (LoRA/QLoRA)` `Ollama` `vLLM`
+`OpenCV` `YOLO` `FastAPI` `Flask` `Docker` `Qwen2.5-VL`
+
+### 📌 Featured Projects
+- **[Local Multimodal AI Agent](https://github.com/Rokibul1022/local-multimodal-ai-agent_pdf-images)** — Agentic RAG over PDFs/images, fully local via Qwen2.5-VL + Ollama
+- **[AI Legal Document Assistant](https://github.com/Rokibul1022/AI_legel_doc)** — Self-improving agentic drafting pipeline with zero-hallucination retrieval
+- **[Stack Trace Root Cause Analyzer](https://github.com/Rokibul1022/stack-trace-root-cause-analyzer_Fine-tune)** — LoRA/QLoRA fine-tuned LLM, ~60% faster debugging
+
+### 📫 How to reach me
+- 📧 hrrokibul2020@gmail.com
+- 💼 [Portfolio](https://portfolio-rokibul.netlify.app)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/rokibul-islam-816614391/)
+- 🐙 [GitHub](https://github.com/Rokibul1022)
