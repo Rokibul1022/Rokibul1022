@@ -25,6 +25,7 @@ CSE graduate from North South University, Dhaka. I build production-grade agenti
 - **[Local Multimodal AI Agent](https://github.com/Rokibul1022/local-multimodal-ai-agent_pdf-images)** — Agentic RAG over PDFs/images, fully local via Qwen2.5-VL + Ollama
 - **[AI Legal Document Assistant](https://github.com/Rokibul1022/AI_legel_doc)** — Self-improving agentic drafting pipeline with zero-hallucination retrieval
 - **[Stack Trace Root Cause Analyzer](https://github.com/Rokibul1022/stack-trace-root-cause-analyzer_Fine-tune)** — LoRA/QLoRA fine-tuned LLM, ~60% faster debugging
+- **[Cortex chat](https://github.com/Rokibul1022/cortex-chat)** - Multiple MCP servers via langGraph, Telegram notification, calendar integration. More  features will come.  
 
 ###  How to reach me
 - 📧 hrrokibul2020@gmail.com
