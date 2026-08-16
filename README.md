@@ -25,7 +25,7 @@ CSE graduate from North South University, Dhaka. I build production-grade agenti
 - **[Real time face recognition](https://github.com/Rokibul1022/face-recognition-computer-vision)** - Find anyone from any where.
 - **[AI Legal Document Assistant](https://github.com/Rokibul1022/AI_legel_doc)** — Self-improving agentic drafting pipeline with zero-hallucination retrieval
 - **[Stack Trace Root Cause Analyzer](https://github.com/Rokibul1022/stack-trace-root-cause-analyzer_Fine-tune)** — LoRA/QLoRA fine-tuned LLM, ~60% faster debugging
-- **[Cortex chat](https://github.com/Rokibul1022/cortex-chat)** - Multiple MCP servers via langGraph, Telegram notification, calendar integration. More  features will come.  
+- **[Cortex chat](https://github.com/Rokibul1022/cortex-chat)** - Multiple MCP servers via langGraph, Telegram notification, calendar integration. More  features will come.  https://cortexagent.netlify.app/
 - **[Licenc Plate detection](https://github.com/Rokibul1022/license-plate-recognition_-computer_Vision)** - Find information from licence plate also detection.
 
 ###  How to reach me
