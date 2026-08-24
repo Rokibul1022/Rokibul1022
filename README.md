@@ -19,7 +19,7 @@ CSE graduate from North South University, Dhaka. I build production-grade agenti
 ###  Tools & Tech
 `Python` `PyTorch` `TensorFlow` `LangChain` `LangGraph` `LlamaIndex` `MCP`
 `ChromaDB` `Pinecone` `Hugging Face` `PEFT (LoRA/QLoRA)` `Ollama` `vLLM`
-`OpenCV` `YOLO` `FastAPI` `Flask` `Docker` `Qwen2.5-VL`
+`OpenCV` `YOLO` `FastAPI` `Flask` `Docker` `Quantization` `Pruning` `ONNX` `TensorRT` `Deepstream` `Jetson - Optimization`
 
 ###  Featured Projects
 - **[Real time face recognition](https://github.com/Rokibul1022/face-recognition-computer-vision)** - Find anyone from any where.
